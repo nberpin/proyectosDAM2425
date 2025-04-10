@@ -1,7 +1,7 @@
 # Proyectos de integración DAM IES Lomo de la Herradura 24/25
 
-### [PSuarezDevAcademy](https://github.com/psuarezdev/psuarezdev-academy)
-<p><strong>Autor: Pablo Suárez</strong></p>
+### Pablo Suárez [PSuarezDevAcademy](https://github.com/psuarezdev/psuarezdev-academy)
+
 Tecnologías:
 <p align="left">
   <a href="https://nextjs.org/" target="_blank">
@@ -26,4 +26,11 @@ Tecnologías:
     <img src="https://b.stripecdn.com/manage-statics-srv/assets/public/favicon.ico" width="36" height="36" alt="Stripe" />
   </a>
 </p>
+
+### Carlos Díaz [LomoToilet](https://github.com/caarlosdiiaz/Proyecto_Final_Dam)
+  Api:spring boot.
+  Frontend: ionic con react y typeScript
+  Estilos: bootstrap y css
+
+
  
